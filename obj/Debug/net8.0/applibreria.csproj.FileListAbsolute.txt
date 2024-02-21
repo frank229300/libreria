@@ -1,0 +1,14 @@
+C:\Users\Frank\Desktop\examen\applibreria\bin\Debug\net8.0\applibreria.exe
+C:\Users\Frank\Desktop\examen\applibreria\bin\Debug\net8.0\applibreria.deps.json
+C:\Users\Frank\Desktop\examen\applibreria\bin\Debug\net8.0\applibreria.runtimeconfig.json
+C:\Users\Frank\Desktop\examen\applibreria\bin\Debug\net8.0\applibreria.dll
+C:\Users\Frank\Desktop\examen\applibreria\bin\Debug\net8.0\applibreria.pdb
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.AssemblyInfo.cs
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.dll
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\refint\applibreria.dll
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.pdb
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\applibreria.genruntimeconfig.cache
+C:\Users\Frank\Desktop\examen\applibreria\obj\Debug\net8.0\ref\applibreria.dll
